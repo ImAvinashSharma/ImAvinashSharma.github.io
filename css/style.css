@@ -4,3 +4,14 @@
   color: #fff;
   background-color: #333;
 }
+.head {
+  display: flex;
+  justify-content: center;
+}
+a {
+  padding: 3px;
+  text-decoration: none;
+}
+a:hover {
+  background: rgba(242, 238, 113, 0.749);
+}
