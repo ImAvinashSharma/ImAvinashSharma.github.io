@@ -12,6 +12,9 @@ npm install
 npx http-serever -p 3000
 ```
 
+![Home page](https://user-images.githubusercontent.com/58262578/118348891-da62c900-b56a-11eb-8530-67a5ee5f9153.png)
+
+
 ## Contributing
 
 If you have suggestions for how {{ name }} could be improved, or want to report a bug, open an issue! We'd love all and any contributions.
