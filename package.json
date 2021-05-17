@@ -18,5 +18,8 @@
   "homepage": "https://github.com/ImAvinashSharma/ImAvinashSharma.github.io#readme",
   "dependencies": {
     "http-server": "^0.12.3"
+  },
+  "devDependencies": {
+  "ecstatic": ">=4.1.3"
   }
 }
